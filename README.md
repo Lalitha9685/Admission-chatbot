@@ -14,12 +14,12 @@ This project is a web-based dashboard and chatbot created to help students explo
 
 # Files Included:
 
-- `fyghb.html` – Dashboard with branch cutoff and intake charts
-- `linkedcode.html` – Chatbot interface with additional admission-related features
+- `grapphs.html` – Dashboard with branch cutoff and intake charts
+- `code.html` – Chatbot interface with additional admission-related features
 
 # How to Use:
-1. Open `fyghb.html` in your browser to explore the dashboard.
-2. Open `linkedcode.html` to use the chatbot.
+1. Open `graphs.html` in your browser to explore the dashboard.
+2. Open `code.html` to use the chatbot.
 3. Make sure both files are in the same folder.
 
 # Technologies Used:
